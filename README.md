@@ -1,5 +1,8 @@
 # TaskerRemote
 A glance/app designed to add smartwatch functionality to a garmin watch via Buttons and Menu screen.
+# Screenshots
+<img width="885" height="290" alt="image" src="https://github.com/user-attachments/assets/4aae5ee9-a023-4c44-83e0-bca30dd5d1ac" />
+<img width="600" height="287" alt="image" src="https://github.com/user-attachments/assets/634c28a8-2965-457a-b1e1-c4cc35ac7083" />
 
 # Description
 It does this by allowing you to create custom 'messages' that are sent as notifications to your paired phone. These notifications can be acted upon to do tasks by certain apps on your phone, even the phone's native software. For example, Samsung phones can act on custom notifications natively (via Modes and Routines) and make your phone do jobs you would not usually be able to do from your watch. Examples include, but are not limited to - Emergency phone recording, taking photos, launching a phone assistant or AI for more tasks, better Spotify or music controls, launching apps, sound modes, audiobook... you get the idea.
