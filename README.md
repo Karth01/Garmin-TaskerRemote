@@ -1,5 +1,8 @@
 # TaskerRemote
 A glance/app designed to add smartwatch functionality to a garmin watch via Buttons and Menu screen.
+
+ConnectIQ link here: https://apps.garmin.com/apps/f62a40c4-f3a5-406c-8248-d9e6ccf1a231
+
 # Screenshots
 <img width="885" height="290" alt="image" src="https://github.com/user-attachments/assets/4aae5ee9-a023-4c44-83e0-bca30dd5d1ac" />
 <img width="600" height="287" alt="image" src="https://github.com/user-attachments/assets/634c28a8-2965-457a-b1e1-c4cc35ac7083" />
