@@ -1,0 +1,59 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <string id="AppName">TaskerRemote</string>
+
+    <string id="task_1_prompt">Enter menu task 1 name here</string>
+    <string id="task_1_title">Menu Task 1</string>
+    <string id="task_2_prompt">Enter auto-exit menu task 2 name here</string>
+    <string id="task_2_title">Auto Exit Task 2</string>
+    <string id="task_3_prompt">Enter auto-exit menu task 3 name here</string>
+    <string id="task_3_title">Auto Exit Task 3</string>
+    <string id="task_4_prompt">Enter auto-exit menu task 4 name here</string>
+    <string id="task_4_title">Auto Exit Task 4</string>
+    <string id="task_5_prompt">Enter auto-exit menu task 5 name here</string>
+    <string id="task_5_title">Auto Exit Task 5</string>
+    <string id="task_6_prompt">Enter auto-exit menu task 6 name here</string>
+    <string id="task_6_title">Auto Exit Task 6</string>
+    <string id="task_7_prompt">Enter menu task 7 name here</string>
+    <string id="task_7_title">Menu Task 7</string>
+    <string id="task_8_prompt">Enter menu task 8 name here</string>
+    <string id="task_8_title">Menu Task 8</string>
+    <string id="task_9_prompt">Enter menu task 9 name here</string>
+    <string id="task_9_title">Menu Task 9</string>
+    <string id="task_10_prompt">Enter menu task 10 name here</string>
+    <string id="task_10_title">Menu Task 10</string>
+    <string id="task_11_prompt">Enter menu task 11 name here</string>
+    <string id="task_11_title">Menu Task 11</string>
+    <string id="task_12_prompt">Enter menu task 12 name here</string>
+    <string id="task_12_title">Menu Task 12</string>
+    <string id="task_13_prompt">Enter menu task 13 name here</string>
+    <string id="task_13_title">Menu Task 13</string>
+    <string id="task_14_prompt">Enter menu task 14 name here</string>
+    <string id="task_14_title">Menu Task 14</string>
+    <string id="task_15_prompt">Enter menu task 15 name here</string>
+    <string id="task_15_title">Menu Task 15</string>
+    <string id="task_16_prompt">Enter DOWN button task name here</string>
+    <string id="task_16_title">DOWN Task</string>
+    <string id="task_17_prompt">Enter UP button task name here</string>
+    <string id="task_17_title">UP Task</string>
+    <string id="task_18_prompt">Enter SELECT button task name here</string>
+    <string id="task_18_title">SELECT Task</string>
+    <string id="task_19_prompt">Enter BACK button task name here</string>
+    <string id="task_19_title">BACK Task</string>
+
+    <string id="disable_single_press_title">Disable Single Press</string>
+    <string id="disable_single_press_prompt">Prevent a single BACK press from switching views</string>
+
+    <string id="launch_buttons_directly_title">Launch Buttons Directly</string>
+    <string id="launch_buttons_directly_prompt">Launch directly into buttons view instead of menu view</string>
+
+    <string id="switch_on_select_title">Switch to Buttons on Select</string>
+    <string id="switch_on_select_prompt">Automatically switch to the button view after selecting a task from the menu</string>
+
+    <!-- New Back Button Behavior -->
+    <string id="useNewBackButtonBehavior_title">Enable Triple-Press Back Button</string>
+    <string id="useNewBackButtonBehavior_help">When enabled, the back button will use the new triple-press behavior. When disabled, it will use the original double-press behavior.</string>
+
+    <!-- Vibration Settings -->
+    <string id="disable_vibration_title">Disable Vibration</string>
+    <string id="disable_vibration_prompt">Turn off vibration when a task is sent</string>
+</strings>
